@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html,
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    height: 100%;
+    background-color: rgb(156, 141, 154);
+}
+
+body {
+    background-image: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-tap-highlight-color: transparent;
+}
+
+input {
+    border: none;
+    outline: none;
+}
+
+input:focus {
+    outline: none;
+}
+
+button {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+}
+
+.Calculator {
+    background: rgb(104, 101, 101);
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.75rem;
+    width: 325px;
+    border: 1px solid black;
+    padding: 0.75rem;
+    border-radius: 1rem;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.screen {
+    grid-column: 1 / 5;
+    border-radius: 0.75rem;
+    font-size: 2rem;
+    height: 6rem;
+    color: white;
+    background: rgb(58, 57, 41);
+    text-align: end;
+    padding: 0.5rem;
+}
+
+::placeholder {
+    color: white;
+}
+
+.symbol,
+.number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    aspect-ratio: 1;
+    font-size: 1.25rem;
+    color: white;
+    border-radius: 15%;
+    transition: 0.15s ease;
+} 
+
+.symbol {
+    background: rgb(247, 129, 86);
+}
+
+.symbol:hover {
+    background: orangered;
+}
+
+.number {
+    background: rgb(124, 121, 122);
+}
+
+.number:hover {
+    background: rgb(70, 66, 66);
+}
+
+/* Created by DONIHSAN.
