@@ -19,15 +19,25 @@ Overall, a calculator is an important and useful tool in everyday life. They hel
 
 ## Screenshots
 
-![](screenshots/ss1.png)
+<img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss1.png?raw=true"></a>
 
-![](screenshots/ss2.png)
+<img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss2.png?raw=true"></a>
 
-![](screenshots/ss3.png)
+<img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss3.png?raw=true"></a>
 
-![](screenshots/ss4.png)
+<img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss4.png?raw=true"></a>
 
-![](screenshots/ss5.png)
+<img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss5.png?raw=true"></a>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 
 ## FINISH <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
 
