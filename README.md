@@ -19,8 +19,6 @@ Overall, a calculator is an important and useful tool in everyday life. They hel
 
 ## Screenshots
 
-<img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss1.png?raw=true"></a>
-
 <img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss2.png?raw=true"></a>
 
 <img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss3.png?raw=true"></a>
@@ -29,8 +27,7 @@ Overall, a calculator is an important and useful tool in everyday life. They hel
 
 <img align="left" width="180" height="260" src="https://github.com/DONIHSAN/Aesthetic-Calculator/blob/main/screenshots/ss5.png?raw=true"></a>
 
-<br></br>
-<br></br>
+
 <br></br>
 <br></br>
 <br></br>
